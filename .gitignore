@@ -16,14 +16,25 @@ dist-ssr
 .vscode/*
 !.vscode/.gitattributes
 !.vscode/extensions.json
-!.vscode/launch.json
 !.vscode/settings.json
+.idea/
 .DS_Store
 *.suo
 *.ntvs*
 *.njsproj
 *.sln
 *.sw?
+
+# Environment files
+.env
+.env.*
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Build artifacts
+*.zip
 
 # Playwright
 /test-results/

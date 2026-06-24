@@ -2,7 +2,7 @@ import { Locator, Page } from 'playwright';
 
 export class TodoManagerPage {
   readonly page: Page;
-  readonly url = 'http://localhost:3000';
+  readonly url = process.env.TEST_BASE_URL || 'http://localhost:3000';
   readonly taskInput: Locator;
   readonly addButton: Locator;
 
